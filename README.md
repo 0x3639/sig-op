@@ -22,7 +22,6 @@ lastUpdated: true
 | [`hypercore-one/qube-manager`](https://github.com/hypercore-one/qube-manager) | Nostr based deployment manager for hyperqube nodes |
 
 ## Active Initiatives
-> Full list: **[/initiatives](/initiatives)**
 
 | ID | Title | Description |
 |---:|---|---|
