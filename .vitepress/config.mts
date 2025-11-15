@@ -20,7 +20,6 @@ export default defineConfig({
       {
         text: 'OP SIG',
         items: [
-          { text: 'README', link: '/'},
           { text: 'Initiatives', link: '/initiatives/'},
         ]
       },
