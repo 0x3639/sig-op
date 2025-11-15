@@ -21,6 +21,14 @@ export default defineConfig({
         text: 'OP SIG',
         items: [
           { text: 'README', link: '/'},
+          { text: 'Initiatives', link: '/initiatives/'},
+        ]
+      },
+      {
+        text: 'Active Initiatives',
+        items: [
+          { text: 'OP-001: Initial Setup', link: '/initiatives/op-001'},
+          { text: 'OP-002: Nostr-Based Network Coordination', link: '/initiatives/op-002'},
         ]
       }
     ],
